@@ -1,3 +1,2 @@
-# mi349-firstRepo
-##This is a subheader in Markdown
-
+# boilerplate
+Basic HTML and CSS setup for simple web design
